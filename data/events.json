@@ -1,0 +1,215 @@
+[
+    {
+        "id": 1,
+        "owner": 1,
+        "description": "Node Demo",
+        "startTime": "2021-03-28T08:00",
+        "endTime": "2021-03-28T09:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 2,
+        "owner": 1,
+        "description": "Node Demo 2",
+        "startTime": "2021-03-29T08:00",
+        "endTime": "2021-03-29T09:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 3,
+        "owner": 2,
+        "description": "Web Course",
+        "startTime": "2021-03-29T08:00",
+        "endTime": "2021-03-29T09:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "mtodd@hlg.edu"
+            },
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 5,
+        "owner": 1,
+        "description": "A New Event",
+        "startTime": "2021-04-01T08:00",
+        "endTime": "2021-04-01T09:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 6,
+        "owner": 1,
+        "description": "New Event 6",
+        "startTime": "2021-04-01T10:00",
+        "endTime": "2021-04-01T11:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 7,
+        "owner": 1,
+        "description": "New Event 7",
+        "startTime": "2021-04-01T11:00",
+        "endTime": "2021-04-01T12:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 8,
+        "owner": 1,
+        "description": "New Event 8",
+        "startTime": "2021-04-01T12:00",
+        "endTime": "2021-04-01T13:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 9,
+        "owner": 1,
+        "description": "New Event 9",
+        "startTime": "2021-04-01T13:00",
+        "endTime": "2021-04-01T14:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 10,
+        "owner": 1,
+        "description": "New Event 10",
+        "startTime": "2021-04-01T13:00:00.000-05:00",
+        "endTime": "2021-04-01T14:00:00.000-05:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 11,
+        "owner": 1,
+        "description": "New Event 10",
+        "startTime": "2021-04-01T14:00:00.000-05:00",
+        "endTime": "2021-04-01T14:10:00.000-05:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 12,
+        "owner": 1,
+        "description": "New Event 10",
+        "startTime": "2021-04-01T14:15:00.000-05:00",
+        "endTime": "2021-04-01T14:30:00.000-05:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 13,
+        "owner": 1,
+        "description": "New Event 10",
+        "startTime": "2021-04-01T15:31:00.000-05:00",
+        "endTime": "2021-04-01T15:51:00.000-05:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 14,
+        "owner": 1,
+        "description": "New Event 0 Mins",
+        "startTime": "2021-04-01T09:00:00.000-05:00",
+        "endTime": "2021-04-01T09:00:00.000-05:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 15,
+        "owner": 1,
+        "description": "New Event 0 Mins",
+        "startTime": "2021-04-01T09:59:00.000-05:00",
+        "endTime": "2021-04-01T10:00:00.000-05:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    },
+    {
+        "id": 16,
+        "owner": 1,
+        "description": "Conflicting Event",
+        "startTime": "2021-04-01T16:00:00.000-05:00",
+        "endTime": "2021-04-01T16:15:00.000-05:00",
+        "timeZone": "America/Chicago",
+        "attendees": [
+            {
+                "email": "jeremy.wallace@hlg.edu"
+            }
+        ],
+        "status": "busy"
+    }
+]

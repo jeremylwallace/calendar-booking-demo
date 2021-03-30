@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Jeremy Wallace",
+        "email": "jeremy.wallace@hlg.edu",
+        "password": "$2b$04$5kEJTLhs/wqRtEn.So4/SOjhE0su8MbFrFLAIb2O1sHUjMLF8zBo.",
+        "firstAvailableTime": "08:00",
+        "lastAvailableTime": "17:00"
+    },
+    {
+        "id": 2,
+        "name": "Michelle Todd",
+        "email": "mtodd@hlg.edu",
+        "password": "$2b$04$yfpPnfRpA7yTmW.vFjthpeLoXnRiOY2T4j9cmAKT9Ocu.zVtS.vPq"
+    },
+    {
+        "id": 3,
+        "name": "Test User",
+        "email": "test@hlg.edu",
+        "password": "$2b$12$ibQ8DDq2wDebWgt1N8QVReYFyuvZvL2.CN7D0.q254O9CW93l2js2"
+    }
+]
